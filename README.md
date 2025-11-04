@@ -1,3 +1,5 @@
+/!\ Lien du git https://github.com/MPFabio/S4-Ingress-TLS-Config-Secrets/tree/main /!\ 
+
 # TP S4 — Ingress, TLS, Config & Secrets
 
 Déploiement d'applications web avec Ingress NGINX, gestion TLS via cert-manager, et injection de configuration via ConfigMaps et Secrets.
@@ -227,3 +229,4 @@ kind delete cluster --name workshop
 ## Auteur
 
 TP S4 - M2 IR - Ingress, TLS, Config & Secrets
+
