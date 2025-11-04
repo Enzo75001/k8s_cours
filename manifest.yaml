@@ -43,7 +43,7 @@ spec:
     spec:
       containers:
         - name: front
-          image: ghcr.io/nginxdemos/hello:plain-text
+          image: nginx:alpine
           env:
             - name: BANNER_TEXT
               valueFrom:
