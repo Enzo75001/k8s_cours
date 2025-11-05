@@ -326,3 +326,7 @@ kubectl logs -n cert-manager deploy/cert-manager --tail=100
 ## 👨‍💻 Auteur
 
 Enzo75001
+
+## Résultat final 
+
+![alt text](images_cr/image2.png)
