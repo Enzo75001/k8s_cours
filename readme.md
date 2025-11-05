@@ -115,7 +115,6 @@ sudo sh -c 'echo "127.0.0.1 workshop.local" >> /etc/hosts'
 **HTTP** :
 - Front : http://workshop.local:8080/front
 - API (headers) : http://workshop.local:8080/api/headers
-- API (IP info) : http://workshop.local:8080/api/ip
 
 **HTTPS** :
 - Front : https://workshop.local:8443/front
